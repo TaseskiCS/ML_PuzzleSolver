@@ -1,7 +1,7 @@
 # Machine Learning Puzzle Solver
 
-<img style="width:350px;" src="https://i.imgur.com/14sLiZq.jpeg"></img>
-<img style="width:350px;" src="https://i.imgur.com/DdDpluw.png"></img>
+<img style="width:350px; height: 200px;" src="https://i.imgur.com/14sLiZq.jpeg"></img>
+<img style="width:300px; height: 200px; overflow: cover;" src="https://i.imgur.com/DdDpluw.png"></img>
 
 ```sh
 h1 : heuristic1()
